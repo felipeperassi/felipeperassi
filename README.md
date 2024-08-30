@@ -3,4 +3,4 @@
 
 :man_teacher: I'm also a teaching assistant for the 'Algorithms and Data Structures' course.
 
-:busts_in_silhouette: Feel free to contact me on [LinkedIn](www.linkedin.com/in/felipeperassi).
+:busts_in_silhouette: Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/felipeperassi).
