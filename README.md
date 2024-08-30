@@ -1,5 +1,5 @@
 ## Hi there, I'm Felipe! 👋
-:pencil: I'm in the final years of my Electronics Engineering degree at the University of Buenos Aires.
+:pencil: I'm in the final years of my Electronics Engineering degree at 'Universidad de Buenos Aires'.
 
 :man_teacher: I'm also a teaching assistant for the 'Algorithms and Data Structures' course.
 
