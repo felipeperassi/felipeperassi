@@ -3,4 +3,4 @@
 
 :man_teacher: I'm also a teaching assistant for the 'Stochastics Processes' course.
 
-:busts_in_silhouette: Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/felipeperassi).
+:busts_in_silhouette: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/felipeperassi).
